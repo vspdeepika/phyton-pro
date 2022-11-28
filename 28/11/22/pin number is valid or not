@@ -1,0 +1,6 @@
+pin=1234
+n=int(input())
+if n==pin:
+    print('isvalid')
+else:
+    print('is not valid')
