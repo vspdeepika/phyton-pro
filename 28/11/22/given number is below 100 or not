@@ -1,0 +1,7 @@
+mit=100
+n=int(input())
+if n>=limit:
+    print('the given number is greater than 100')
+else:
+    print('the give number is less than 100')
+    
